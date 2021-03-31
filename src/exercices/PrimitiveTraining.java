@@ -2,7 +2,7 @@ public class PrimitiveTraining {
 
     // TODO 1 : Change the method 'integer' to return the expected result : int 42
     public static int integer() {
-       return 0;
+       return 42;
     }
 
     // TODO 2 : Create a method 'str', result expected : String "Hello"
