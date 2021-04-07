@@ -70,7 +70,7 @@ public class StringTraining {
      */
     public static String lower(String string) {
 
-        return string.toUpperCase();
+        return string.toLowerCase();
     }
 
     /**
@@ -87,7 +87,7 @@ public class StringTraining {
      */
     public static char lastChar(String string) {
 
-        return string.charAt(phone.length() - 1);;
+        return string.charAt(string.length() - 1);;
     }
 
     /**
